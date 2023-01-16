@@ -104,7 +104,7 @@ head = p;
 } 
 
 int main(){ 
-cout<<"Junaid Ali "<<endl<<"CMSID: 45177"<<endl<<endl<<"Question 01"<<endl;
+cout<<"Bob "<<endl<<"CMSID: 45177"<<endl<<endl<<"Question 01"<<endl;
 IntSLList List; 
 
  int value=0; 
